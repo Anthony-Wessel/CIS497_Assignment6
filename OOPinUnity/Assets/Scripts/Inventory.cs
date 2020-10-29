@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * Anthony Wessel
+ * Assignment 6
+ * Contains a list of all items in the player's inventory
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,7 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
+﻿/*
+ * Anthony Wessel
+ * Assignment 6
+ * Stores data for an item
+ */
 
 [System.Serializable]
 

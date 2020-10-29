@@ -1,5 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿/*
+ * Anthony Wessel
+ * Assignment 6
+ * Used to create singleton objects which only exist once in a scene
+ */
+
 using UnityEngine;
 
 public class Singleton<T> : MonoBehaviour where T : Singleton<T>

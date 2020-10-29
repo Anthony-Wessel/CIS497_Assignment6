@@ -1,5 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿/*
+ * Anthony Wessel
+ * Assignment 6
+ * Manages the game state and loads and unloads levels
+ */
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 

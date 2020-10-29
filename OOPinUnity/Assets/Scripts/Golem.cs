@@ -1,5 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿/*
+ * Anthony Wessel
+ * Assignment 6
+ * A subclass of Enemy which has higher health
+ */
+
 using UnityEngine;
 
 public class Golem : Enemy

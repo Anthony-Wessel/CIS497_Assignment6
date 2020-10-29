@@ -1,5 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿/*
+ * Anthony Wessel
+ * Assignment 6
+ * Contains data for an enemy
+ */
+
 using UnityEngine;
 
 public abstract class Enemy : MonoBehaviour, IDamageable
