@@ -1,5 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿/*
+ * Anthony Wessel
+ * Assignment 6
+ * Damages any bats that it hits (when a player jumps on them)
+ */
+
 using UnityEngine;
 
 public class Boots : MonoBehaviour

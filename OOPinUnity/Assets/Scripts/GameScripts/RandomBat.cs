@@ -1,5 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿/*
+ * Anthony Wessel
+ * Assignment 6
+ * A bat that moves around randomly
+ */
+
 using UnityEngine;
 
 public class RandomBat : Bat

@@ -1,18 +1,20 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿/*
+ * Anthony Wessel
+ * Assignment 6
+ * A bat which chases the player
+ */
+
 using UnityEngine;
 
 public class AngryBat : Bat
 {
     Transform player;
 
-    // Start is called before the first frame update
     void Awake()
     {
         player = FindObjectOfType<Player>().transform;
     }
 
-    // Update is called once per frame
     void Update()
     {
         Vector2 dir = (player.position - transform.position).normalized;
